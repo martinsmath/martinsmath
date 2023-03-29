@@ -22,6 +22,6 @@
 
 </div>
 
-Cursando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estudando programação.
+Cursando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estudando programação como Front-end
 
 #### Contato: martinscmatheus@gmail.com
