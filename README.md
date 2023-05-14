@@ -16,9 +16,13 @@
 
 </div><br/>
 
-Cursando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estudando programação como Front-end.
+<div>   
+   Cursando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estudando programação como Front-end.
    
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-martins-9014a4211/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathsgtr)
-
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-martins-9014a4211/)
+   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathsgtr)
+   
+   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+</div>   
+   
 #### Contato: martinscmatheus@gmail.com
