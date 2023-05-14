@@ -20,6 +20,5 @@ Cursando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e est
    
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-martins-9014a4211/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathsgtr)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/matheusbmartins)
 
 #### Contato: martinscmatheus@gmail.com
